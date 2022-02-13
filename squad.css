@@ -1,0 +1,111 @@
+* {
+	margin:0px;
+	padding:0px;
+	text-transform:uppercase;
+}
+body {
+	background:#000 url(imagens/css/background.png) repeat fixed top;
+	color:#FFF;
+	font-size:14px;
+	font-family:purista-web,sans-serif;
+}
+a:link, a:active, a:focus, a:visited {
+	color:#C28114;
+	text-decoration:none;
+}
+a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+#wrapper {
+	margin:0 auto;
+	width:900px;
+}
+#header {
+	background:url(imagens/css/main.png) repeat top;
+	border:#C28114 1px dashed;
+	margin:20px 0;
+	height:200px;
+	padding:10px;
+}
+#logo {
+	float:left;
+	background:url(imagens/css/logo.png) no-repeat;
+	height:200px;
+	width:200px;
+}
+#info {
+	float:right;
+	height:200px;
+	width:600px;
+}
+#info ul {
+	list-style:none;
+}
+#info li {
+	margin:25px 0;
+}
+#main {
+	background:url(imagens/css/main.png) repeat top;
+	border:#C28114 1px dashed;
+	margin:20px 0;
+}
+#main fieldset {
+	margin:0 auto;
+	margin-bottom:20px;
+	width:400px;
+	padding:10px;
+	text-transform:none;
+	font-size:12px;
+	border:#C28114 1px dashed;
+}
+#main legend {
+	padding:0 10px;
+	color:#C28114;
+}
+#main table {
+	background:#222;
+	border-left:#000 1px solid;
+	border-top:#000 1px solid;
+	margin:0 auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:870px;
+}
+#main table tr th {
+	color:#C28114;
+	border-right:#000 1px solid;
+	border-bottom:#000 1px solid;
+	height:30px;
+	line-height:30px;
+	font-size:14px;
+	text-align:center;
+}
+#main table tr td {
+	border-right:#000 1px solid;
+	border-bottom:#000 1px solid;
+	text-align:center;
+	height:30px;
+	line-height:30px;
+	font-size:12px;
+	text-transform:none;
+}
+#server {
+	background:url(imagens/css/main.png) repeat top;
+	border:#C28114 1px dashed;
+	margin:20px 0;
+	height:106px;
+	padding-top:10px;
+	text-align:center;
+}
+#footer {
+	background:url(imagens/css/main.png) repeat top;
+	border:#C28114 1px dashed;
+	margin:20px 0;
+	height:50px;
+}
+#footer p {
+	text-align:center;
+	line-height:50px;
+	font-size:12px;
+}

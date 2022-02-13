@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?DOCTYPE squad SYSTEM "squad.dtd"?>
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="GR">
+	<name>GUERRILHEIROS BRASIL</name>
+	<email>N/A</email>
+	<web>http://www.steamcommunity.com/groups/grbrasil</web>
+	<picture>logo.paa</picture>
+	<title>[GR BRASIL]</title>
+		<member id="76561198034020398" nick="CHUUNAS">
+			<name>CHUUNAS</name>
+			<email>N/A</email>
+			<icq>N/A</icq>
+			<remark>CADA UM COM SUA LOUCURA!</remark>
+		</member>
+		<member id="76561197965238500" nick="Blackened">
+			<name>Blackened</name>
+			<email>N/A</email>
+			<icq>N/A</icq>
+			<remark>Metallicaaaaaaa \,,/</remark>
+		</member>
+		<member id="76561198054664606" nick="[GR]SaintSeiya">
+			<name>SaintSeiya</name>
+			<email>N/A</email>
+			<icq>N/A</icq>
+			<remark>Guerreiro das estrelas!!</remark>
+		</member>
+		<member id="76561198081527250" nick="[GR] Horeon">
+			<name>Horeon</name>
+			<email>N/A</email>
+			<icq>N/A</icq>
+			<remark>Sangue no Olho!</remark>
+		</member>
+		<member id="76561198095997714" nick="[GR] Colt">
+			<name>Colt</name>
+			<email>N/A</email>
+			<icq>N/A</icq>
+			<remark>Sangue no Olho!</remark>
+		</member>
+</squad>
